@@ -1,0 +1,23 @@
+.grad1{
+  width : 200px;
+  height : 100px;
+  background : linear-gradient(0deg, blue, red);
+}
+
+.grad2{
+  width : 200px;
+  height : 100px;
+  background : linear-gradient(90deg, red, green);
+}
+
+.grad3{
+  width : 200px;
+  height : 100px;
+  background : linear-gradient(180deg, red, yellow);
+}
+
+.grad4{
+  width : 200px;
+  height : 100px;
+  background : linear-gradient(-90deg, red, yellow);
+}
